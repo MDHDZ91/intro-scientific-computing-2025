@@ -46,7 +46,8 @@ Slack is only available for students taking the live version of the course. Plea
 
 ### Class Time:
 - Sept 8-19
-- 09:30am-12:30pm CT 
+- 09:30am-12:30pm CT
+- Location Hinds 561
 - Zoom link available via permission
 
 ### Structure:
