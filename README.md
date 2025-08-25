@@ -58,7 +58,7 @@ Slack is only available for students taking the live version of the course. Plea
 ### How to ask for help:
 - Ask questions on slack or in person - there is a high likelyhood someone will have the same question as you that's why we want questions on slack 
 - Plan to stay the entire class period as we will offer office hours towards the end of class.
-- If you need help outside of class time or office hours, contact one of the TAs via slack.
+- If you need help outside of class time or office hours, sign up here< https://docs.google.com/spreadsheets/d/1prFbyLPoSYM1VdUHJ6z09l10dmaatYqo1QTr6hOwqek/edit?gid=0#gid=0 >
 - During class, post to your slack channel and your TA will respond in real time
 
 ### Recordings:
