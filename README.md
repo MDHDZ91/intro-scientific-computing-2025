@@ -65,8 +65,12 @@ Slack is only available for students taking the live version of the course. Plea
 The folder for the recordings will be posted over Slack or sent over email. 
 We will add each day's recordings a few hours after classtime.
 
+
+[PENDING UPDATES - WILL BE FINALIZED ON 9/1]
+
+
 ## Week 1: Foundation 
-### 0. Pre-course foundation **Pre 8/8**
+### 0. Pre-course foundation **Pre 9/8**
 - Goals for the workshop/syllabus 
 - Motivation
 - How this course works
@@ -78,7 +82,7 @@ We will add each day's recordings a few hours after classtime.
 - Directories and file structure
 - Installation- Run Jupyter notebook
 
-### 1. Introduction to data types and storage **(8/8)**
+### 1. Introduction to data types and storage **(9/8)**
 - Introduction to jupyter notebooks-the structure 
 - Interface, running a cell
 - Markdown - comments
@@ -91,32 +95,32 @@ We will add each day's recordings a few hours after classtime.
 - Strings, and string manipulation
 
 
-### 2. Automation (8/9)
+### 2. Automation (9/9)
 - Loops- for/while
 - if/else statements 
 
-### 4. Numpy (8/10)
+### 4. Numpy (9/10)
 - Array Wise operations and math
 - 2D arrays, linear algebra
 - All numpy knowledge we learned here is enough for basic data manipulation
 
-### 5. Functions (8/11)
+### 5. Functions (9/11)
 - User-defined functions
 - docstrings!!!
 - List python built-in functions
 - Discuss how functions relate to libraries
 
-### 6. Introduction to Plotting (8/12)
+### 6. Introduction to Plotting (9/12)
 - plotting with matplot
 - using functions for automating plots
 
-### 7. Introduction to pandas (8/13)
+### 7. Introduction to pandas (9/13)
 - Create a dataframe from scratch
 - Read in tabular data into a dataframe
 - View and access data in the dataframe
 - Save and export a dataframe
 
-### 8. Introduction to pandas (8/16)
+### 8. Introduction to pandas (9/16)
 - Modify dataframe
 - Modify values
 - Clean data and make a function to import data
@@ -124,7 +128,7 @@ We will add each day's recordings a few hours after classtime.
 - Automation (functions, for loops)
 
 
-### 9. Pandas applications (8/17)
+### 9. Pandas applications (9/17)
 - Intro to Math/Stats  
 - Intro to pivot, groupby
  
@@ -133,7 +137,7 @@ We will add each day's recordings a few hours after classtime.
 - Maps
 - gif 
 
-### 3. Beyond the Jupyter Notebook  (8/19)
+### 3. Beyond the Jupyter Notebook  (9/19)
 - The command line
 - `.py` scripts and making your own module
 - Interactive python
