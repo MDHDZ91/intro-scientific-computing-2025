@@ -25,8 +25,6 @@ Basically, everything under "Setup" not including "R" or "text editor."
 
 `notebooks` holds notebooks
 
-`solutions` contains answers to the daily check-ins and homeworks
-
 `output` is where you will save your own files
 
 Don't change the structure!
@@ -41,7 +39,9 @@ Slack is only available for students taking the live version of the course. Plea
 - Maria D Hernandez Limon (she/her), Post-Doctoral Scholar, Department of Statistics
 
 ### Teaching Assistants:
-Contact over slack
+- Eric Van Camp [Geophysical Sciences]
+- Tommaso Castellani [Statistics]
+- Hsing-Hung Chou [Geophysical Sciences]
 
 
 ### Class Time:
