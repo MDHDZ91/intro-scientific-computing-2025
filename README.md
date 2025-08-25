@@ -39,7 +39,7 @@ Slack is only available for students taking the live version of the course. Plea
 - Maria D Hernandez Limon (she/her), Post-Doctoral Scholar, Department of Statistics
 
 ### Teaching Assistants:
-- Eric Van Camp [Geophysical Sciences]
+- Eric Van Clepper [Geophysical Sciences]
 - Tommaso Castellani [Statistics]
 - Hsing-Hung Chou [Geophysical Sciences]
 
