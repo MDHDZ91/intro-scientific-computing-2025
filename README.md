@@ -67,53 +67,81 @@ The folder for the recordings will be posted over Slack or sent over email.
 We will add each day's recordings a few hours after classtime.
 
 
+## Week 1: Foundation  
+
+### 0. Pre-course Foundation **(Pre 9/8)**  
+- Goals for the workshop / syllabus  
+- Motivation  
+- How this course works  
+- How to ask for help  
+- Expectations & rules  
+- Growth mindset  
+- What is programming? Why Python (and not R)?  
+- Directories and file structure  
+- Installation & running Jupyter Notebooks  
+
+---
+
+### 1. Data Types and Storage **(9/8)**  
+- Introduction to Jupyter Notebooks (structure & interface)  
+- Running cells, using Markdown for comments  
+- Variables and assignment  
+- Core data types:  
+  - **Booleans** (side note: bits, 0s and 1s)  
+  - **Integers**, **floats**  
+  - **Strings** and string manipulation  
+- Collections:  
+  - **Lists** (indexing, slicing)  
+  - **Dictionaries** (key → value mapping)  
+
+---
+
+### 2. Automation with Loops & Conditionals **(9/9)**  
+- `for` and `while` loops  
+- Iterating over lists, ranges, and strings  
+- Conditional logic with `if / elif / else`  
+- Boolean operators (`and`, `or`, `not`)  
+- `enumerate` for looping with index and value  
+
+---
+
+### 3. NumPy Basics **(9/10)**  
+- Creating and inspecting arrays (`.shape`, `.dtype`)  
+- Array-wise math and broadcasting  
+- Descriptive statistics: `.mean()`, `.std()`, `.min()`, `.max()`  
+- 2D arrays (rows × columns) and slicing  
+- Boolean masks for filtering data  
+- Why NumPy arrays are faster than Python lists  
+- Enough NumPy to do basic scientific data manipulation  
+
+---
+
+### 4. Functions **(9/11)**  
+- Defining your own functions with `def`  
+- Parameters and return values  
+- Multiple arguments, default arguments  
+- Returning multiple values (tuples)  
+- Writing clear **docstrings**  
+- Debugging functions (fixing logic errors)  
+- How Python’s built-in functions and libraries use the same ideas  
+
+---
+
+### 5. Introduction to Plotting (Matplotlib) **(9/12)**  
+- Basic line plots with `plt.plot(x, y)`  
+- Titles, axis labels, legends, grids  
+- Multiple lines on one plot  
+- Subplots (`fig, ax/axs`) for multi-panel figures  
+- Histograms for distributions  
+- Scatter plots with color and size encodings  
+- Combining skills: using loops, NumPy, and functions to build plots  
+- Applied example: analyzing and plotting daily weather data  
+- **Capstone problems:** Problems using Days 1–5 skills  
+
+
 [PENDING UPDATES - WILL BE FINALIZED ON 9/1]
 
-
-## Week 1: Foundation 
-### 0. Pre-course foundation **Pre 9/8**
-- Goals for the workshop/syllabus 
-- Motivation
-- How this course works
-- How to ask for help
-- Expectations
-- Rules
-- Growth-mindset  
-- What is programming? Why python and not R?
-- Directories and file structure
-- Installation- Run Jupyter notebook
-
-### 1. Introduction to data types and storage **(9/8)**
-- Introduction to jupyter notebooks-the structure 
-- Interface, running a cell
-- Markdown - comments
-- Variables
-- Booleans (side note on how bits work -transistor in 0 or 1)
-- Ints 
-- Floats
-- Lists-indexing 
-- dictionary
-- Strings, and string manipulation
-
-
-### 2. Automation (9/9)
-- Loops- for/while
-- if/else statements 
-
-### 4. Numpy (9/10)
-- Array Wise operations and math
-- 2D arrays, linear algebra
-- All numpy knowledge we learned here is enough for basic data manipulation
-
-### 5. Functions (9/11)
-- User-defined functions
-- docstrings!!!
-- List python built-in functions
-- Discuss how functions relate to libraries
-
-### 6. Introduction to Plotting (9/12)
-- plotting with matplot
-- using functions for automating plots
+## Week 2: Tables and data analysis  
 
 ### 7. Introduction to pandas (9/13)
 - Create a dataframe from scratch
