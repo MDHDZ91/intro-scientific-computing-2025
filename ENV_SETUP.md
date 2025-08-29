@@ -22,7 +22,7 @@ mamba activate py101
 
 ### 3) Install course packages
 ```bash
-mamba install -c conda-forge numpy pandas matplotlib seaborn jupyterlab ipykernel cartopy -y
+mamba install -c conda-forge numpy pandas matplotlib seaborn jupyterlab notebook ipykernel cartopy geopandas-y
 ```
 
 ### 4) Register the kernel for Jupyter
@@ -34,4 +34,3 @@ python -m ipykernel install --user --name py101 --display-name "Python (py101)"
 ```bash
 jupyter lab
 ```
-E
