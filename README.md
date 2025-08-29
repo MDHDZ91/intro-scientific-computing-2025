@@ -139,38 +139,47 @@ We will add each day's recordings a few hours after classtime.
 - **Capstone problems:** Problems using Days 1–5 skills  
 
 
-[PENDING UPDATES - WILL BE FINALIZED ON 9/1]
+## Week 2: Data analysis and visuals 
 
-## Week 2: Tables and data analysis  
-
-### 6. Introduction to pandas (9/13)
+### 6. Introduction to pandas **(9/15)** 
 - Create a dataframe from scratch
 - Read in tabular data into a dataframe
 - View and access data in the dataframe
 - Save and export a dataframe
 
-### 7. Introduction to pandas (9/16)
+---
+
+### 7. Introduction to pandas **(9/16)** 
 - Modify dataframe
 - Modify values
 - Clean data and make a function to import data
 - Merge, concat, append
 - Automation (functions, for loops)
 
-### 8. Pandas applications (9/17)
+---
+
+### 8. Pandas applications **(9/17)** 
 - Intro to Math/Stats  
 - Intro to pivot, groupby
  
-### 9. Advanced Plotting (8/18)
+---
+ 
+### 9. Advanced Plotting **(9/18)** 
 - Seaborn
+- SciPy
 - Maps
 	- Cartopy/ GeoPandas
 - Animations [gif]
 
-### 10. Beyond the Jupyter Notebook  (9/19)
-- The command line
-- `.py` scripts and making your own module
-- Interactive python
+---
 
+### 10. Beyond the Jupyter Notebook  (**(9/18)** 
+- The command line
+- `.py` scripts
+- Interactive python
+- Working with super computers
+
+---
 Credit:
 This is an updated version of the 2022 DSEER "Introduction to Scientific Computing" bootcamp.
 
